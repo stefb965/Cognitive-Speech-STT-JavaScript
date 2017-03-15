@@ -31,7 +31,6 @@ The Oxford.Speech.JS sample demonstrates how to use the Microsoft Bing Speech AP
 
  2. To Start recognition, press the Start button.
 
-  <img src="SampleScreenshots/SampleRunning1.png"/>
 
 
 ## Contributing
